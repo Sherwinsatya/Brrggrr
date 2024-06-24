@@ -36,8 +36,8 @@ The Online Burger Ordering System is a web application designed to facilitate se
 ### Step 2: Clone the Repository
 
 1. Clone the project repository to the `C:\xampp\htdocs\`:
-    ```sh
-    git clone https://github.com/pratham-jaiswal/OnlineBurgerOrderingSystem.git
+    ```
+    git clone https://github.com/Sherwinsatya/Brrggrr.git
     ```
 
 ### Step 3: Start XAMPP
